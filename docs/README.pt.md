@@ -37,4 +37,4 @@ Se deseja contribuir para este projeto, sinta-se à vontade para criar pull requ
 
 ## Licença
 
-Este projeto é licenciado sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto é licenciado sob a licença MIT - consulte o arquivo [LICENSE](../LICENSE) para mais detalhes.
