@@ -34,3 +34,7 @@ O Transitory IPFS Share permite que os usuários façam upload de arquivos na re
 ## Contribuições
 
 Se deseja contribuir para este projeto, sinta-se à vontade para criar pull requests ou relatar problemas na [seção de Issues](https://github.com/eduardomcb/transitory-ipfs-share/issues).s
+
+## Licença
+
+Este projeto é licenciado sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.

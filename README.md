@@ -34,3 +34,7 @@ Transitory IPFS Share allows users to upload files to the IPFS network, generati
 ## Contributions
 
 If you wish to contribute to this project, feel free to create pull requests or report issues in the [Issues section](https://github.com/eduardomcb/transitory-ipfs-share/issues).
+
+## License
+
+This project is licensed under the MIT license - see the [LICENSE file](LICENSE) for details.
